@@ -1,3 +1,11 @@
+# Notice
+I've decided to repurpose the repo from just gamedesign space to a project, which would convert .txt into printable .pdf, for fast prototyping and making games for friends.
+
+## Format
+
+
+
+# The following is personal notes about one of the games i want to realise.
 # Вступление
 This is work in progress. Anything might be changed.
 In the future I will make pdf files in the same repository.
